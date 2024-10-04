@@ -1,0 +1,12 @@
+{
+  "app_name": "WhatsApp Integration",
+  "folder_name": "frappe_whatsapp",
+  "is_paid": false,
+  "is_custom": false,
+  "subscription_cost": 100.0,
+  "currency": "USD",
+  "subscription_duration_days": 365,
+  "has_country_restrictions": false,
+  "available_in_countries": [""],
+  "description": "WhatsApp Integration helps businesses enhance communication with customers globally by offering seamless integration with WhatsApp for instant messaging, improving customer service and support efficiency."
+}
