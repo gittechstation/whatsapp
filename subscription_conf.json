@@ -8,5 +8,5 @@
   "subscription_duration_days": 365,
   "has_country_restrictions": false,
   "available_in_countries": [""],
-  "description": "WhatsApp Integration helps businesses enhance communication with customers globally by offering seamless integration with WhatsApp for instant messaging, improving customer service and support efficiency."
+  "description": "WhatsApp integration for frappe. Use directly meta API's without any 3rd party integration."
 }
